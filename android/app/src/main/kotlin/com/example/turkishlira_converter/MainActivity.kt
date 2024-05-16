@@ -1,4 +1,4 @@
-package com.example.turkishlira_converter
+package com.djamelhemch.turkishlira_converter
 
 import io.flutter.embedding.android.FlutterActivity
 
